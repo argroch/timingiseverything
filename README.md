@@ -2,7 +2,12 @@
 
 We've all been there: you don't need to know just what time it is - you need to know which part of the day it is! That's where this gem comes in!
 
-### Usage:
+### Usage
+
+Now available at RubyGems.org!
+
+`gem install timingiseverything`
+
 
 `require 'timingiseverything'`
 
