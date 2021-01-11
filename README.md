@@ -5,7 +5,7 @@ We've all been there: you don't need to know just what time it is - you need to 
 ### Usage:
 
 `require 'timingiseverything'`
-` `
+
 `puts TimingIsEverything.part_of_day`
 
 
