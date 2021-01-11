@@ -4,8 +4,9 @@ We've all been there: you don't need to know just what time it is - you need to 
 
 ###Usage:
 
-`require 'timingiseverything'
-puts TimingIsEverything.part_of_day`
+`require 'timingiseverything'`
+
+`puts TimingIsEverything.part_of_day`
 
 
 ###A Note from the Author...
