@@ -15,4 +15,4 @@ Now available at RubyGems.org!
 
 
 ### A Note from the Author...
-So, of course, I no one really has a practical use for this gem. But I wanted to try out making my own gem, and had no good ideas for a useful one. And so, Timing is Everything was born! You're welcome.
+So, of course, I realize no one really has a practical use for this gem. But I wanted to try out making my own gem, and had no good ideas for a useful one. And so, Timing is Everything was born! You're welcome.
